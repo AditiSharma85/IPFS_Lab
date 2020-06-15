@@ -1,0 +1,26 @@
+{
+  "name": "ipfs-image-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ipfs-api": "^26.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AditiSharma85/IPFS_Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AditiSharma85/IPFS_Lab/issues"
+  },
+  "homepage": "https://github.com/AditiSharma85/IPFS_Lab#readme"
+}
